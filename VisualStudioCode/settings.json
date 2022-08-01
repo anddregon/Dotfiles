@@ -4,5 +4,6 @@
     "editor.fontSize": 18,
     "bracket-pair-colorizer-2.depreciation-notice": false,
     "workbench.iconTheme": "material-icon-theme",
-    "editor.fontFamily": "Fira Code",
+    "editor.fontFamily": " 'FiraCode NF' ", 
+    
 }
